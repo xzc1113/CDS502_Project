@@ -1,0 +1,31 @@
+Detected columns: ['Language', 'Title', 'Page_ID', 'WikiRank_score']
+Column mapping fixed:
+ lang  <- Language
+ title <- Title
+ page_id <- Page_ID
+ quality <- WikiRank_score
+[progress] chunk=1 rows=200000 elapsed_s=6 jsonl_mb=29.8
+[progress] chunk=10 rows=2000000 elapsed_s=65 jsonl_mb=302.1
+[progress] chunk=20 rows=4000000 elapsed_s=130 jsonl_mb=583.4
+[progress] chunk=30 rows=6000000 elapsed_s=195 jsonl_mb=868.8
+[progress] chunk=40 rows=8000000 elapsed_s=260 jsonl_mb=1157.7
+[progress] chunk=50 rows=10000000 elapsed_s=326 jsonl_mb=1445.8
+[progress] chunk=60 rows=12000000 elapsed_s=391 jsonl_mb=1737.1
+[progress] chunk=70 rows=14000000 elapsed_s=457 jsonl_mb=2026.1
+[progress] chunk=80 rows=16000000 elapsed_s=523 jsonl_mb=2311.7
+[progress] chunk=90 rows=18000000 elapsed_s=588 jsonl_mb=2600.6
+[progress] chunk=100 rows=20000000 elapsed_s=654 jsonl_mb=2885.3
+[progress] chunk=110 rows=22000000 elapsed_s=720 jsonl_mb=3177.4
+[progress] chunk=120 rows=24000000 elapsed_s=785 jsonl_mb=3465.7
+[progress] chunk=130 rows=26000000 elapsed_s=850 jsonl_mb=3753.2
+[progress] chunk=140 rows=28000000 elapsed_s=916 jsonl_mb=4043.7
+[progress] chunk=150 rows=30000000 elapsed_s=981 jsonl_mb=4325.3
+[progress] chunk=160 rows=32000000 elapsed_s=1047 jsonl_mb=4606.2
+[progress] chunk=170 rows=34000000 elapsed_s=1113 jsonl_mb=4892.6
+[progress] chunk=180 rows=36000000 elapsed_s=1179 jsonl_mb=5200.2
+[progress] chunk=190 rows=38000000 elapsed_s=1245 jsonl_mb=5497.3
+[progress] chunk=200 rows=40000000 elapsed_s=1311 jsonl_mb=5791.6
+[progress] chunk=210 rows=42000000 elapsed_s=1377 jsonl_mb=6087.2
+[progress] chunk=220 rows=44000000 elapsed_s=1444 jsonl_mb=6391.0
+[progress] chunk=230 rows=46000000 elapsed_s=1510 jsonl_mb=6673.3
+ETL done. elapsed_s=1543 output_dir=/home/ubuntu/cds502/05_outputs

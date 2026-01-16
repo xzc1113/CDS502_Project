@@ -1,0 +1,61 @@
+Current Mongosh Log ID:	6968609b09b727161f8de665
+Connecting to:		mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.5.10
+Using MongoDB:		7.0.28
+Using Mongosh:		2.5.10
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+------
+   The server generated these startup warnings when booting
+   2026-01-14T19:43:59.932+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+   2026-01-14T19:44:00.762+00:00: Access control is not enabled for the database. Read and write access to data and configuration is unrestricted
+   2026-01-14T19:44:00.762+00:00: Soft rlimits for open file descriptors too low
+------
+
+test> switched to db cds502_wikirank
+cds502_wikirank> lang_1
+cds502_wikirank> lang_1_quality_-1
+cds502_wikirank> lang_1_quality_bin_1
+cds502_wikirank> lang_1_title_len_bin_1
+cds502_wikirank> [
+  {
+    v: 2,
+    key: {
+      _id: 1
+    },
+    name: '_id_'
+  },
+  {
+    v: 2,
+    key: {
+      lang: 1
+    },
+    name: 'lang_1'
+  },
+  {
+    v: 2,
+    key: {
+      lang: 1,
+      quality: -1
+    },
+    name: 'lang_1_quality_-1'
+  },
+  {
+    v: 2,
+    key: {
+      lang: 1,
+      quality_bin: 1
+    },
+    name: 'lang_1_quality_bin_1'
+  },
+  {
+    v: 2,
+    key: {
+      lang: 1,
+      title_len_bin: 1
+    },
+    name: 'lang_1_title_len_bin_1'
+  }
+]
+
+cds502_wikirank> 

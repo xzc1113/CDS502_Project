@@ -1,0 +1,4 @@
+Using 1 child processes
+
+Starting copy of cds502_wikirank.lang_topk with columns [lang, rank, quality, page_id, title].
+<stdin>:1:"delimiter" must be a 1-character string

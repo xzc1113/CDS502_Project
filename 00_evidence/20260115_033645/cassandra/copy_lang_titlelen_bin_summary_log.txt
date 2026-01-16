@@ -1,0 +1,5 @@
+Using 1 child processes
+
+Starting copy of cds502_wikirank.lang_titlelen_bin_summary with columns [lang, title_len_bin, bin_count, avg_quality, high_quality_ratio].
+Processed: 446 rows; Rate:    1523 rows/s; Avg. rate:    1523 rows/sProcessed: 446 rows; Rate:     761 rows/s; Avg. rate:    1134 rows/s
+446 rows imported from 1 files in 0.394 seconds (0 skipped).

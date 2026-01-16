@@ -1,0 +1,2 @@
+lang,article_count,avg_quality,high_quality_ratio
+ar,1237943,17.108793,0.001296

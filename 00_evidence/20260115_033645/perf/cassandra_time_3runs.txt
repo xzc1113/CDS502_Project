@@ -1,0 +1,3 @@
+run=1 cassandra_queries_seconds=0.51
+run=2 cassandra_queries_seconds=0.50
+run=3 cassandra_queries_seconds=0.50

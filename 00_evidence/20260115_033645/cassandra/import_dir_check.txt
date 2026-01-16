@@ -1,0 +1,3 @@
+total 8.0K
+drwxr-xr-x 2 root root 4.0K Jan 15 03:22 .
+drwxr-xr-x 1 root root 4.0K Jan 15 03:22 ..

@@ -1,0 +1,47 @@
+test> switched to db cds502_wikirank
+cds502_wikirank> lang_1
+cds502_wikirank> lang_1_quality_-1
+cds502_wikirank> lang_1_quality_bin_1
+cds502_wikirank> lang_1_title_len_bin_1
+cds502_wikirank> [
+  {
+    v: 2,
+    key: {
+      _id: 1
+    },
+    name: '_id_'
+  },
+  {
+    v: 2,
+    key: {
+      lang: 1
+    },
+    name: 'lang_1'
+  },
+  {
+    v: 2,
+    key: {
+      lang: 1,
+      quality: -1
+    },
+    name: 'lang_1_quality_-1'
+  },
+  {
+    v: 2,
+    key: {
+      lang: 1,
+      quality_bin: 1
+    },
+    name: 'lang_1_quality_bin_1'
+  },
+  {
+    v: 2,
+    key: {
+      lang: 1,
+      title_len_bin: 1
+    },
+    name: 'lang_1_title_len_bin_1'
+  }
+]
+
+cds502_wikirank> 

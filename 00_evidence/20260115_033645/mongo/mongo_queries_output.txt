@@ -1,0 +1,568 @@
+test> switched to db cds502_wikirank
+cds502_wikirank> 
+cds502_wikirank> 
+cds502_wikirank> Q1 Language overview (top 30 by count)
+
+cds502_wikirank> ... ... ... ... {
+  _id: 'en',
+  article_count: 6860430,
+  avg_quality: 24.711834702810176,
+  high_quality_ratio: 0.014278113762548412
+}
+{
+  _id: 'de',
+  article_count: 2930971,
+  avg_quality: 18.632193499765094,
+  high_quality_ratio: 0.0053535159508572416
+}
+{
+  _id: 'fr',
+  article_count: 2626210,
+  avg_quality: 16.11849213760514,
+  high_quality_ratio: 0.00335959424417697
+}
+{
+  _id: 'sv',
+  article_count: 2591505,
+  avg_quality: 20.01939760355469,
+  high_quality_ratio: 0.0006594623587452079
+}
+{
+  _id: 'ar',
+  article_count: 2475886,
+  avg_quality: 17.10879298546056,
+  high_quality_ratio: 0.0012956977825311828
+}
+{
+  _id: 'nl',
+  article_count: 2163715,
+  avg_quality: 12.72752322140393,
+  high_quality_ratio: 0.0007699720157229579
+}
+{
+  _id: 'ru',
+  article_count: 1991787,
+  avg_quality: 18.181727108320317,
+  high_quality_ratio: 0.0030630785319916234
+}
+{
+  _id: 'es',
+  article_count: 1905093,
+  avg_quality: 18.76547019074659,
+  high_quality_ratio: 0.003924217872828256
+}
+{
+  _id: 'it',
+  article_count: 1875385,
+  avg_quality: 13.62784366676709,
+  high_quality_ratio: 0.0021488920941566663
+}
+{
+  _id: 'pl',
+  article_count: 1624175,
+  avg_quality: 17.027903411147197,
+  high_quality_ratio: 0.002494189357673896
+}
+{
+  _id: 'ca',
+  article_count: 1512696,
+  avg_quality: 21.160754967290192,
+  high_quality_ratio: 0.00476235806797929
+}
+{
+  _id: 'zh',
+  article_count: 1433026,
+  avg_quality: 20.309095667210503,
+  high_quality_ratio: 0.009161034063582936
+}
+{
+  _id: 'ja',
+  article_count: 1424380,
+  avg_quality: 14.567234614709559,
+  high_quality_ratio: 0.0019383872281273256
+}
+{
+  _id: 'uk',
+  article_count: 1339146,
+  avg_quality: 18.8171417392129,
+  high_quality_ratio: 0.002301466755678619
+}
+{
+  _id: 'vi',
+  article_count: 1294722,
+  avg_quality: 14.244000904132314,
+  high_quality_ratio: 0.0014860332951784243
+}
+{
+  _id: 'pt',
+  article_count: 1130161,
+  avg_quality: 17.71039898996692,
+  high_quality_ratio: 0.005075383064890754
+}
+{
+  _id: 'fa',
+  article_count: 1008969,
+  avg_quality: 11.427629009018116,
+  high_quality_ratio: 0.001273577285327894
+}
+{
+  _id: 'cs',
+  article_count: 810549,
+  avg_quality: 16.26315463050352,
+  high_quality_ratio: 0.002923944141563311
+}
+{
+  _id: 'id',
+  article_count: 696238,
+  avg_quality: 13.929003984987892,
+  high_quality_ratio: 0.004441010114357447
+}
+{
+  _id: 'sr',
+  article_count: 692273,
+  avg_quality: 15.904197020395134,
+  high_quality_ratio: 0.0010617198706290726
+}
+{
+  _id: 'ko',
+  article_count: 679238,
+  avg_quality: 10.437596918900297,
+  high_quality_ratio: 0.001497266054019357
+}
+{
+  _id: 'no',
+  article_count: 633769,
+  avg_quality: 15.528635048574483,
+  high_quality_ratio: 0.001380629219794594
+}
+{
+  _id: 'tr',
+  article_count: 617404,
+  avg_quality: 18.135367720001813,
+  high_quality_ratio: 0.004182026679451381
+}
+{
+  _id: 'bg',
+  article_count: 599574,
+  avg_quality: 17.74466163609496,
+  high_quality_ratio: 0.0027452824838969003
+}
+{
+  _id: 'fi',
+  article_count: 577535,
+  avg_quality: 17.644649309219353,
+  high_quality_ratio: 0.002768663371051105
+}
+{
+  _id: 'hu',
+  article_count: 544427,
+  avg_quality: 19.037015373410945,
+  high_quality_ratio: 0.004321975214307887
+}
+{
+  _id: 'be',
+  article_count: 489970,
+  avg_quality: 12.945708716452026,
+  high_quality_ratio: 0.0007102475661775211
+}
+{
+  _id: 'ro',
+  article_count: 464908,
+  avg_quality: 16.613843963536873,
+  high_quality_ratio: 0.002062773710067368
+}
+{
+  _id: 'sh',
+  article_count: 459884,
+  avg_quality: 18.657289075288553,
+  high_quality_ratio: 0.0015851823503318229
+}
+{
+  _id: 'zh-min-nan',
+  article_count: 433191,
+  avg_quality: 21.541355446673638,
+  high_quality_ratio: 0.00024700420830534335
+}
+
+cds502_wikirank> 
+cds502_wikirank> 
+cds502_wikirank> Q2 Quality distribution (lang=en)
+
+cds502_wikirank> ... ... ... ... {
+  _id: 0,
+  bin_count: 1125082
+}
+{
+  _id: 10,
+  bin_count: 1899364
+}
+{
+  _id: 20,
+  bin_count: 1826080
+}
+{
+  _id: 30,
+  bin_count: 1010345
+}
+{
+  _id: 40,
+  bin_count: 466714
+}
+{
+  _id: 50,
+  bin_count: 229722
+}
+{
+  _id: 60,
+  bin_count: 126930
+}
+{
+  _id: 70,
+  bin_count: 78239
+}
+{
+  _id: 80,
+  bin_count: 53726
+}
+{
+  _id: 90,
+  bin_count: 36424
+}
+{
+  _id: 100,
+  bin_count: 7804
+}
+
+cds502_wikirank> 
+cds502_wikirank> 
+cds502_wikirank> Q3 Top 50 (lang=en)
+
+cds502_wikirank> ... ... ... ... ... {
+  title: 'Albert Sidney Johnston',
+  page_id: 711,
+  quality: 100
+}
+{
+  title: 'Aphrodite',
+  page_id: 1174,
+  quality: 100
+}
+{
+  title: 'Aleister Crowley',
+  page_id: 1177,
+  quality: 100
+}
+{
+  title: 'Athena',
+  page_id: 1182,
+  quality: 100
+}
+{
+  title: 'American Sign Language',
+  page_id: 1201,
+  quality: 100
+}
+{
+  title: 'Augustus',
+  page_id: 1273,
+  quality: 100
+}
+{
+  title: 'Arminianism',
+  page_id: 1306,
+  quality: 100
+}
+{
+  title: 'Ambrose',
+  page_id: 1370,
+  quality: 100
+}
+{
+  title: 'Amos Bronson Alcott',
+  page_id: 1384,
+  quality: 100
+}
+{
+  title: 'Alboin',
+  page_id: 1575,
+  quality: 100
+}
+{
+  title: 'Andrew Jackson',
+  page_id: 1623,
+  quality: 100
+}
+{
+  title: 'Ayn Rand',
+  page_id: 339,
+  quality: 100
+}
+{
+  title: 'Alkali metal',
+  page_id: 666,
+  quality: 100
+}
+{
+  title: 'Antimony',
+  page_id: 898,
+  quality: 100
+}
+{
+  title: 'Albert Speer',
+  page_id: 954,
+  quality: 100
+}
+{
+  title: 'Agatha Christie',
+  page_id: 984,
+  quality: 100
+}
+{
+  title: 'Antoninus Pius',
+  page_id: 1256,
+  quality: 100
+}
+{
+  title: 'Acupuncture',
+  page_id: 1537,
+  quality: 100
+}
+{
+  title: 'Ānanda',
+  page_id: 1735,
+  quality: 100
+}
+{
+  title: 'Andrew II of Hungary',
+  page_id: 1755,
+  quality: 100
+}
+{
+  title: 'Apollo 13',
+  page_id: 1770,
+  quality: 100
+}
+{
+  title: 'Apollo 7',
+  page_id: 1773,
+  quality: 100
+}
+{
+  title: 'Apollo 9',
+  page_id: 1774,
+  quality: 100
+}
+{
+  title: 'Assyria',
+  page_id: 2085,
+  quality: 100
+}
+{
+  title: 'Ark of the Covenant',
+  page_id: 2134,
+  quality: 100
+}
+{
+  title: 'Alkaloid',
+  page_id: 2341,
+  quality: 100
+}
+{
+  title: 'AMD',
+  page_id: 2400,
+  quality: 100
+}
+{
+  title: 'AGM-65 Maverick',
+  page_id: 3151,
+  quality: 100
+}
+{
+  title: 'Economy of Botswana',
+  page_id: 3616,
+  quality: 100
+}
+{
+  title: 'Foreign relations of Brazil',
+  page_id: 3638,
+  quality: 100
+}
+{
+  title: 'Bernard Montgomery',
+  page_id: 3873,
+  quality: 100
+}
+{
+  title: 'Berthe Morisot',
+  page_id: 4233,
+  quality: 100
+}
+{
+  title: 'Beauty',
+  page_id: 4431,
+  quality: 100
+}
+{
+  title: 'The Beach Boys',
+  page_id: 4477,
+  quality: 100
+}
+{
+  title: 'Battle of Poitiers',
+  page_id: 4503,
+  quality: 100
+}
+{
+  title: 'Battle of the Nile',
+  page_id: 4606,
+  quality: 100
+}
+{
+  title: 'Balfour Declaration',
+  page_id: 4820,
+  quality: 100
+}
+{
+  title: 'Charlie Chaplin',
+  page_id: 5142,
+  quality: 100
+}
+{
+  title: 'Charlemagne',
+  page_id: 5314,
+  quality: 100
+}
+{
+  title: 'Cervix',
+  page_id: 5738,
+  quality: 100
+}
+{
+  title: 'American Civil Liberties Union',
+  page_id: 1950,
+  quality: 100
+}
+{
+  title: 'Amphetamine',
+  page_id: 2504,
+  quality: 100
+}
+{
+  title: 'Ajanta Caves',
+  page_id: 2642,
+  quality: 100
+}
+{
+  title: "ʻAbdu'l-Bahá",
+  page_id: 3019,
+  quality: 100
+}
+{
+  title: 'Geography of Bulgaria',
+  page_id: 3668,
+  quality: 100
+}
+{
+  title: 'Battle of Bosworth Field',
+  page_id: 3793,
+  quality: 100
+}
+{
+  title: 'Bede',
+  page_id: 4041,
+  quality: 100
+}
+{
+  title: 'Boeing 767',
+  page_id: 4165,
+  quality: 100
+}
+{
+  title: 'Baháʼí Faith',
+  page_id: 4251,
+  quality: 100
+}
+{
+  title: 'Beaver',
+  page_id: 4399,
+  quality: 100
+}
+
+cds502_wikirank> 
+cds502_wikirank> 
+cds502_wikirank> Q4 Title length bins (lang=en)
+
+cds502_wikirank> ... ... ... ... {
+  _id: 0,
+  bin_count: 4127163,
+  avg_quality: 23.689257983946842,
+  high_quality_ratio: 0.012649124834662455
+}
+{
+  _id: 20,
+  bin_count: 2309116,
+  avg_quality: 26.094035192471924,
+  high_quality_ratio: 0.016090573189047237
+}
+{
+  _id: 40,
+  bin_count: 362817,
+  avg_quality: 27.475723826887936,
+  high_quality_ratio: 0.020327051929760732
+}
+{
+  _id: 60,
+  bin_count: 55717,
+  avg_quality: 25.168506208159087,
+  high_quality_ratio: 0.020155428325286717
+}
+{
+  _id: 80,
+  bin_count: 5111,
+  avg_quality: 24.539444433574644,
+  high_quality_ratio: 0.01721776560360008
+}
+{
+  _id: 100,
+  bin_count: 383,
+  avg_quality: 27.572079895561355,
+  high_quality_ratio: 0.018276762402088774
+}
+{
+  _id: 120,
+  bin_count: 79,
+  avg_quality: 28.894751898734174,
+  high_quality_ratio: 0.012658227848101266
+}
+{
+  _id: 140,
+  bin_count: 27,
+  avg_quality: 23.084470370370372,
+  high_quality_ratio: 0
+}
+{
+  _id: 160,
+  bin_count: 9,
+  avg_quality: 21.02253333333333,
+  high_quality_ratio: 0
+}
+{
+  _id: 180,
+  bin_count: 5,
+  avg_quality: 19.89818,
+  high_quality_ratio: 0
+}
+{
+  _id: 200,
+  bin_count: 2,
+  avg_quality: 19.2222,
+  high_quality_ratio: 0
+}
+{
+  _id: 240,
+  bin_count: 1,
+  avg_quality: 41.2705,
+  high_quality_ratio: 0
+}
+
+cds502_wikirank> 

@@ -1,0 +1,2 @@
+total 1.9G
+-rw-rw-r-- 1 ubuntu ubuntu 1.9G Jan 15 03:42 20240801-wikirank.csv

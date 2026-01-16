@@ -1,0 +1,1 @@
+]0;mongosh mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000[33m3000000[39m

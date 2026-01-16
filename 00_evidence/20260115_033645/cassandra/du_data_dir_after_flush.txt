@@ -1,0 +1,1 @@
+252K	/var/lib/cassandra/data/cds502_wikirank

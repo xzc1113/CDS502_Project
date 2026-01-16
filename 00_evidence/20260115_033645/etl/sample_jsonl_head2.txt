@@ -1,0 +1,2 @@
+{"lang":"ar","title":"ماء","page_id":7,"quality":85.4175,"title_len":3,"quality_bin":80,"is_high_quality":1,"title_len_bin":0}
+{"lang":"ar","title":"رياضيات","page_id":38,"quality":79.166,"title_len":7,"quality_bin":70,"is_high_quality":0,"title_len_bin":0}

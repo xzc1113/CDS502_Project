@@ -1,0 +1,11 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ca-certificates is already the newest version (20240203).
+curl is already the newest version (8.5.0-2ubuntu10.6).
+gnupg is already the newest version (2.4.4-2ubuntu17.4).
+lsb-release is already the newest version (12.0-2).
+unzip is already the newest version (6.0-28ubuntu4.1).
+git is already the newest version (1:2.43.0-1ubuntu7.3).
+htop is already the newest version (3.3.0-4build1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.

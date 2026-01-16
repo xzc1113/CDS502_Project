@@ -1,0 +1,9 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+docker-ce is already the newest version (5:29.1.4-1~ubuntu.24.04~noble).
+docker-ce-cli is already the newest version (5:29.1.4-1~ubuntu.24.04~noble).
+containerd.io is already the newest version (2.2.1-1~ubuntu.24.04~noble).
+docker-buildx-plugin is already the newest version (0.30.1-1~ubuntu.24.04~noble).
+docker-compose-plugin is already the newest version (5.0.1-1~ubuntu.24.04~noble).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.

@@ -1,0 +1,6 @@
+total 6.7G
+-rw-rw-r-- 1 ubuntu ubuntu 6.7G Jan 15 04:17 articles_clean.jsonl
+-rw-rw-r-- 1 ubuntu ubuntu 6.8K Jan 15 04:17 lang_quality_bin_summary.csv
+-rw-rw-r-- 1 ubuntu ubuntu 1.7K Jan 15 04:17 lang_summary.csv
+-rw-rw-r-- 1 ubuntu ubuntu  12K Jan 15 04:17 lang_titlelen_bin_summary.csv
+-rw-rw-r-- 1 ubuntu ubuntu  99K Jan 15 04:17 lang_topk.tsv

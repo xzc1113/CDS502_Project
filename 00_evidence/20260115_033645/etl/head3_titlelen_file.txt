@@ -1,0 +1,3 @@
+lang,title_len_bin,bin_count,avg_quality,high_quality_ratio
+ar,0,941628,17.148016,0.001238
+ar,20,276180,17.06437,0.001343

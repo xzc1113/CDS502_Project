@@ -1,0 +1,2 @@
+lang	rank	quality	page_id	title
+ar	1	100.0	1353	دمشق

@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE     COMMAND                  CREATED         STATUS         PORTS                        NAMES
+accecd121cb8   mongo:7   "docker-entrypoint.s…"   3 minutes ago   Up 3 minutes   127.0.0.1:27017->27017/tcp   cds502_mongo

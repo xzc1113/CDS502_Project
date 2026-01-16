@@ -1,0 +1,10 @@
+
+ lang | rank | page_id | quality | title
+------+------+---------+---------+------------------------
+   en |    1 |     339 |     100 |               Ayn Rand
+   en |    2 |     666 |     100 |           Alkali metal
+   en |    3 |     711 |     100 | Albert Sidney Johnston
+   en |    4 |     898 |     100 |               Antimony
+   en |    5 |     954 |     100 |           Albert Speer
+
+(5 rows)
