@@ -1,0 +1,9 @@
+services:
+  cassandra:
+    image: cassandra:4.1
+    container_name: cds502_cassandra
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:9042:9042"
+    volumes:
+      - ./cassandra_data:/var/lib/cassandra
